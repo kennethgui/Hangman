@@ -1,3 +1,10 @@
+/*
+Author: Kenneth Guillont
+
+Implementation of Text.cpp
+
+*/
+
 #include <iostream>
 #include <string>
 #include <fstream>

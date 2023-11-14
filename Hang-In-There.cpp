@@ -1,8 +1,6 @@
 /*
-Author: Kenneth GUillont
-Course: CSCI-136
-Instructor: Brandon Foster
-Assignment: Project1 taskB
+Author: Kenneth Guillont
+implementation for Hang-In-There
 */
 
 #include <iostream>
